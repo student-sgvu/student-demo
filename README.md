@@ -1,4 +1,4 @@
 # student-demo
 this is my first Git repository.
 <br>
-Author - amit kumar
+Author - chhailbihari angira 
