@@ -4,6 +4,6 @@ this is my first Git repository.
 Author - chhailbihari angira 
 developer - asok chodhary
 coder - amit kumar
-backend developer - dev
+backend developer - dev(devloper)
  
 
